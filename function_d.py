@@ -3,7 +3,8 @@ def max_value(numbers):
         in the list.
     """
     max_num = max(numbers)
-    return max_num
+    min_num = min(numbers)
+    return max_num, min_num
     
 
 
