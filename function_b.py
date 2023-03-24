@@ -9,6 +9,7 @@ def silly_sum():
     """
     num = int(input('Please enter a number => '))
     sum = 0
+    num = 0
 
     while num != 0:
         sum += num
