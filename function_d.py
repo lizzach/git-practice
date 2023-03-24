@@ -3,8 +3,8 @@ def max_value(numbers):
         in the list.
     """
     max_num = max(numbers)
-    return max_num
-    
+    return 0
+
 
 
 if __name__ == "__main__":
